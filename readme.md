@@ -1,4 +1,4 @@
-<h2>Curso de programação em python (básico)</h2>
+<h2>Revendo conceitos em python - Curso de programação em python DTI (básico)</h2>
 
 * **Aula 1 -** O que são variáveis e como manipulá-las através de operadores aritméticos e interação com usuário
 * **Aula 2 -** Como criar um código em Python que funcione de acordo com a relação das variáveis
